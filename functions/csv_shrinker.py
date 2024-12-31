@@ -7,7 +7,6 @@ import pandas as pd
 
 
 def main():
-    
     # convert csv to frame
     frame = pd.read_csv(filepath_or_buffer=input_file, nrows=chunk_size)
     

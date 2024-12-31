@@ -18,5 +18,4 @@ def main():
 if __name__ == "__main__":
     
     input_text = input("Enter Text or Sentence to Reverse: ")
-    
     main()
